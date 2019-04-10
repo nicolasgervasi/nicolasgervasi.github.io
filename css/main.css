@@ -34,7 +34,7 @@ h2 {
 p {
     font-size: 1.5vw;
     line-height: 1.5vw;
-    color: #339;
+    color: #333;
     margin-left:3%;
 }
 footer {
@@ -44,7 +44,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1vw;
+    font-size: 3vw;
 }
 
 ul.posts li {
