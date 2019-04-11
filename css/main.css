@@ -40,12 +40,12 @@ p {
 }
 
 footer {
-    border-top: 0.3vw solid #888;
+    border-top: 0.1vw solid #888;
     font-size: 1vw;
 }
 
 nav {
-    border-bottom: 0.3vw solid #888;
+    border-bottom: 0.1vw solid #888;
     font-size: 1.3vw;
 }
 
