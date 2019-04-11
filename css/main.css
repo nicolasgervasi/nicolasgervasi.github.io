@@ -35,12 +35,16 @@ h2 {
 p {
     font-size: 1.5vw;
     line-height: 1.5vw;
-    color: #333;
+    color: #338;
     margin-left:3%;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: 1vw;
+}
+
+nav {
+    border-bottom: 1px solid #d5d5d5;
 }
 
 ul.posts { 
