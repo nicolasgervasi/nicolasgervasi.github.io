@@ -35,23 +35,24 @@ h2 {
 p {
     font-size: 1.5vw;
     line-height: 1.5vw;
-    color: #338;
+    color: #333;
     margin-left:3%;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #555;
     font-size: 1vw;
 }
 
 nav {
-    border-bottom: 1px solid #911;
+    border-bottom: 1px solid #555;
+    font-size: 2vw;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 3vw;
-}
+/ul.posts { 
+/    margin: 20px auto 40px; 
+/   font-size: 3vw;
+/}
 
-ul.posts li {
-    list-style: none;
-}
+/ul.posts li {
+/    list-style: none;
+/}
