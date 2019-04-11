@@ -35,9 +35,15 @@ h2 {
 p {
     font-size: 1.5vw;
     line-height: 1.5vw;
-    color: #333;
+    color: #339;
     margin-left:3%;
 }
+#grad1 {
+    height: 2vw;
+    background-color: #119;
+    background-image: linear-gradient(to right, white, #119);
+}
+
 footer {
     border-top: 1px solid #555;
     font-size: 1vw;
@@ -45,7 +51,7 @@ footer {
 
 nav {
     border-bottom: 1px solid #555;
-    font-size: 2vw;
+    font-size: 1.3vw;
 }
 
 /ul.posts { 
